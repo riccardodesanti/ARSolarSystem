@@ -8,3 +8,4 @@ ARSolarSystem is a simple Augmented Reality iOS app which shows a simplified ver
 Note: the UI of this app has been tested only on IPhone X.
 
 # Examples:
+ test
